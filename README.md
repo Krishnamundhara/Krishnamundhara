@@ -28,10 +28,10 @@
 ---
 
 ## 🌐 Let's Connect
-<p align="left">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-mundhara-b6074933a/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishna__mundhrara?igsh=Z2h2ank3aWVpNWZ1)  
-</p>
+
 ---
 
 ## 📈 GitHub Stats
