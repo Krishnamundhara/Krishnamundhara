@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Krishna Mundhara!
 
 🎓 2nd-year B.Tech CSE student at Mumbai University  
-📱 App & Web Developer | 🤖 AI/ML & Automation Enthusiast  
+📱 React Developer | 🤖 AI/ML & Automation Enthusiast  
 🧠 Always learning, always building!
 
 ---
