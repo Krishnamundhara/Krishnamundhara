@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Krishna Mundhara!
 
-🎓 1st-year B.Tech CSE student at Mumbai University  
+🎓 2nd-year B.Tech CSE student at Mumbai University  
 📱 App & Web Developer | 🤖 AI/ML & Automation Enthusiast  
 🧠 Always learning, always building!
 
@@ -29,15 +29,5 @@
 ## 🌐 Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krishna__mundhrara?igsh=Z2h2ank3aWVpNWZ1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-mundhara-b6074933a/)
 
-
----
-
-## 📈 GitHub Stats
-
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishnamundhara&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnamundhara&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Krishnamundhara&theme=tokyonight)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Krishnamundhara&icon=4&color=6)](https://visitcount.itsvg.in)
