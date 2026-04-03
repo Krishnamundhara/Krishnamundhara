@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krishna Mundhara
 
-A 2nd-year B.Tech Computer Engineering student at Mumbai University who loves building clean, scalable web applications, deploying self-hosted infrastructure, and automating workflows with AI. 
+I’m a 2nd-year B.Tech Computer Engineering student at Mumbai University, passionate about building clean and scalable web applications, working with self-hosted systems, and automating real-world workflows using AI.
 
 ---
 
@@ -9,6 +9,7 @@ A 2nd-year B.Tech Computer Engineering student at Mumbai University who loves bu
 **Frontend & Full-Stack** <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
@@ -41,7 +42,7 @@ A 2nd-year B.Tech Computer Engineering student at Mumbai University who loves bu
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-mundhara-b6074933a/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krishna__mundhrara?igsh=Z2h2ank3aWVpNWZ1) [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://krishnam.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-mundhara-b6074933a/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com) [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://krishnam.codes)
 
 ---
 
