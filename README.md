@@ -42,25 +42,20 @@ I’m a 2nd-year B.Tech Computer Engineering student at Mumbai University, passi
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-mundhara-b6074933a/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com) [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://krishnam.codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-mundhara-b6074933a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your_email@example.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krishna__mundhrara?igsh=Z2h2ank3aWVpNWZ1) 
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnamundhara&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnamundhara&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Krishnamundhara?style=for-the-badge&color=20232A&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Krishnamundhara?style=for-the-badge&color=20232A&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/commit-activity/y/Krishnamundhara?style=for-the-badge&color=20232A&logo=git&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Krishnamundhara&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Krishnamundhara&icon=4&color=6" />
-  </a>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Krishnamundhara&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
